@@ -7,7 +7,7 @@
 .yarn/install-state.gz
 
 # phpStorm
-.idea
+/.idea
 
 # testing
 /coverage
